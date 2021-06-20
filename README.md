@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A developer student from Sao Paulo, Brazil.
+  A student developer from Sao Paulo, Brazil.
 </p>
 
 
@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+</p>
+
+<p align='center'>
+  上村
 </p>
 
 <p align='center'>
