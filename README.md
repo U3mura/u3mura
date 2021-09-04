@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A student developer from Sao Paulo, Brazil.
+  A student developer and data scientist from Sao Paulo, Brazil.
 </p>
 
 
