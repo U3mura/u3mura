@@ -40,7 +40,8 @@
   📫 How to reach me: <a href='mailto:uemura.pedro@outlook.com'>uemura.pedro@outlook.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/U3mura/u3mura"></a> May the force be with us! (ง︡'-'︠)ง
+  <a href="#"><img src="https://badges.pufler.dev/visits/U3mura/u3mura"></a><br>
+  May the force be with us! (ง︡'-'︠)ง
 </p>
 
 <!--
