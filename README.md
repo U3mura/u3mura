@@ -39,8 +39,10 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:uemura.pedro@outlook.com'>uemura.pedro@outlook.com</a>
 </p>
+<br>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/U3mura/u3mura"></a><br>
+  <a href="#"><img src="https://badges.pufler.dev/visits/U3mura/u3mura"></a>
+  <br>
   May the force be with us! (ง︡'-'︠)ง
 </p>
 
