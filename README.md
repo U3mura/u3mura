@@ -40,9 +40,12 @@
   📫 How to reach me: <a href='mailto:uemura.pedro@outlook.com'>uemura.pedro@outlook.com</a>
 </p>
 <br>
+<!--
 <p align='center'>
   <a href="#"><img src="https://dinopixel.com/pixel-art/baby-yoda/1954"></a>
   <br>
+  -->
+<p align='center'>
   May the force be with us! (ง︡'-'︠)ง
 </p>
 
