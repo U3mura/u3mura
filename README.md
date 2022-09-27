@@ -41,7 +41,7 @@
 </p>
 <br>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/U3mura/u3mura"></a>
+  <a href="#"><img src="https://dinopixel.com/pixel-art/baby-yoda/1954"></a>
   <br>
   May the force be with us! (ง︡'-'︠)ง
 </p>
